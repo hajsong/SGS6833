@@ -1,8 +1,9 @@
 +++
 title = "Lectures"
-date = 2019-03-05T08:53:36+09:00
+date = 2019-03-01T23:56:15+09:00
 weight = 2
-chapter = false
+chapter = true
 +++
 
-### Material related to lectures to be uploaded
+# 강의자료
+강의자료를 다운받으실 수 있습니다.
