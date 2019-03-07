@@ -1,5 +1,5 @@
 ---
-title: "ATM2106"
+title: "SGS6833"
 ---
 <h1 style="background: url(images/img2banner.jpg);
            color: white;">
@@ -45,3 +45,6 @@ C.D. Ahrens의 Meteorology Today를 참고하여 강의하겠지만, 꼭 이 교
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WXvhWZfAP7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XDCSQjTVWx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
