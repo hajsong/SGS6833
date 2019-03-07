@@ -6,10 +6,19 @@
     <description>Recent content in Lectures on 대기과학</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Mar 2019 08:53:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 23:56:15 +0900</lastBuildDate>
     
 	<atom:link href="https://hajsong.github.io/SGS6833/lectures/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Week</title>
+      <link>https://hajsong.github.io/SGS6833/lectures/week1/</link>
+      <pubDate>Thu, 07 Mar 2019 07:17:29 +0900</pubDate>
+      
+      <guid>https://hajsong.github.io/SGS6833/lectures/week1/</guid>
+      <description> 대기의 특성   Lecture Slides   lecture0.pdf  (4535 ko)    </description>
+    </item>
     
   </channel>
 </rss>
