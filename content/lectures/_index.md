@@ -11,3 +11,4 @@ chapter = false
 + 2주 : 복사 ([lecture1.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture1.pdf))
 + 3주 : 온도 / 습도 ([lecture2.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture2.pdf))
 + 4주 : 안정도 / 구름 ([lecture3.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture3.pdf))
++ 5주 : 강수 / 기압 ([lecture4.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture4.pdf))
