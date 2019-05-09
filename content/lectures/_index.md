@@ -16,3 +16,4 @@ chapter = false
 + 7주 : 바람 ([lecture5.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture5.pdf))
 + 8주 : 대기대순환 ([lecture6.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture6.pdf))
 + 9주 : 기단, 전선, 중위도 날씨 ([lecture7.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture7.pdf))
++ 10주 : 중위도 날씨 2 ([lecture8.pdf](https://github.com/hajsong/SGS6833/raw/master/docs/lectures/_index.files/lecture8.pdf))
